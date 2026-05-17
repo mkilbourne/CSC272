@@ -1,2 +1,36 @@
 # CSC262
 Programming in Java
+# Difference-Arrays-ArrayLists
+
+## Arrays vs ArrayList in Java
+
+### Arrays
+Arrays are fixed-size collections that store elements of the same type.  
+They are fast and memory-efficient but cannot grow or shrink once created.
+
+### ArrayLists
+ArrayLists are dynamic, resizable structures that allow adding and removing elements at runtime.  
+They provide many built-in methods such as add(), remove(), size(), and get().
+
+### Key Differences
+| Feature | Array | ArrayList |
+|--------|--------|-----------|
+| Size | Fixed | Dynamic |
+| Stores | Primitives + objects | Objects only |
+| Adding elements | Not allowed | add(), remove() |
+| Performance | Faster | Slightly slower |
+| Flexibility | Low | High |
+
+---
+
+## Example Code
+
+This project includes a Java file demonstrating the differences between arrays and ArrayLists, with comments explaining each behavior.
+
+See the file:  
+`DifferenceArraysArrayLists.java`
+
+---
+
+## Repository Link
+(Insert your GitHub repository URL here)
